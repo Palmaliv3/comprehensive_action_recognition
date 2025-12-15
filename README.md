@@ -1,6 +1,6 @@
 ### **Action recognition on videos project**
 
-### **Project Description **
+### Project Description 
 
 This project was aimed on learning and was used by me(Li Bronislav) as a diploma defence project at the programming learning centre(proweb)(https://proweb.uz).
 It performs action recognition on videos in complicated scenarios taken from security cameras.
@@ -27,3 +27,4 @@ It performs action recognition on videos in complicated scenarios taken from sec
 5. trained_model_f4.keras– already trained model.
 
 This code can be used by anyone who will find it usefull, mentioning author(Li Bronislav/github:Palmaliv3)
+
